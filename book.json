@@ -18,10 +18,10 @@
     ],
     "pluginsConfig": {
         "insert-logo": {
-            "url": "img/996.png",
+            "url": "./img/996.png",
             "style": "background: none; max-height: 30px; min-height: 30px"
         },
-        "favicon": "img/996.png",
+        "favicon": "./img/996.png",
         "hide-element": {
             "elements": [
                 ".gitbook-link"
